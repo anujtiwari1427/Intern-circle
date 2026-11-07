@@ -1,0 +1,2 @@
+Dashboard not pre-generated (URLError: <urlopen error [Errno -3] Temporary failure in name resolution>). Run notebook with internet access.
+Run all notebook cells to generate tips_dashboard.png.
